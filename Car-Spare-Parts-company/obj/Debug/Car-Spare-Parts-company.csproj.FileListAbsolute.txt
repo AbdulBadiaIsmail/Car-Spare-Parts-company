@@ -1,0 +1,547 @@
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.AssemblyReference.cache
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Form1.resources
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Properties.Resources.resources
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.GenerateResource.cache
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CoreCompileInputs.cache
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe.config
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.pdb
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CopyComplete
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.pdb
+C:\Users\HAMZAWY\Desktop\desktop files\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.InitialCompanyBD.resources
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe.config
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.pdb
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Drawing.v22.1.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.AssemblyReference.cache
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.SuggestedBindingRedirects.cache
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Form1.resources
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.InitialCompanyBD.resources
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Properties.Resources.resources
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.GenerateResource.cache
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CoreCompileInputs.cache
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CopyComplete
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe
+G:\Project WindowsFroms\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.pdb
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\CsharpProject.Form1.resources
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.InitialCompanyBD.resources
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Properties.Resources.resources
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.GenerateResource.cache
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CoreCompileInputs.cache
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.pdb
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe.config
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.pdb
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CopyComplete
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.AssemblyReference.cache
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.carspareparts.resources
+C:\Users\AT\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\CsharpProject.Create.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe.config
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.pdb
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Properties.Resources.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.GenerateResource.cache
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CoreCompileInputs.cache
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CopyComplete
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.pdb
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.initial.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.XtraForm1.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe.licenses
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.XtraForm2.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Guna.UI2.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Dashboard.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.UserControl1.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Login.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.user_migration.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.ForgetPassword.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.updat_user.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.HRusercontrol.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.AssemblyReference.cache
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Buffers.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.IO.Pipelines.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Memory.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Text.Json.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Threading.Channels.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.ValueTuple.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Buffers.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.IO.Pipelines.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Memory.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Text.Json.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Threading.Channels.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.ValueTuple.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Chat.resources
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Owin.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Newtonsoft.Json.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Web.Cors.dll
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\AT\Desktop\New folder\-Car-Spare-Parts-Company-project\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe.config
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.exe
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Car-Spare-Parts-company.pdb
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.BonusSkins.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Drawing.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraGrid.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraLayout.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraPrinting.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Guna.UI2.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Features.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Net.Http.Headers.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Cors.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Newtonsoft.Json.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Owin.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Buffers.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.IO.Pipelines.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Memory.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Text.Json.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Threading.Channels.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.ValueTuple.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Web.Cors.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraBars.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.RichEdit.v22.1.Core.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraTreeList.v22.1.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Office.v22.1.Core.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.Desktop.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Data.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Utils.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Sparkline.v22.1.Core.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraEditors.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Printing.v22.1.Core.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraGrid.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraLayout.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraPrinting.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNet.SignalR.Core.pdb
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Features.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Net.Http.Headers.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Cors.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\Newtonsoft.Json.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Buffers.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.IO.Pipelines.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Memory.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Text.Json.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Threading.Channels.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\System.ValueTuple.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Core.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Pdf.v22.1.Drawing.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraBars.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.RichEdit.v22.1.Core.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.XtraTreeList.v22.1.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\DevExpress.Office.v22.1.Core.xml
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Data.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Data.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Data.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Utils.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Sparkline.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraEditors.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Printing.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraGrid.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraLayout.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraPrinting.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Pdf.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraBars.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.RichEdit.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.XtraTreeList.v22.1.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\de\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\es\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\bin\Debug\ja\DevExpress.Office.v22.1.Core.resources.dll
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.AssemblyReference.cache
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.SuggestedBindingRedirects.cache
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Chat.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Dashboard.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.ForgetPassword.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.HRusercontrol.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Login.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.initial.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.user_migration.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.updat_user.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Properties.Resources.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.UserControl1.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.XtraForm1.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.XtraForm2.resources
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.GenerateResource.cache
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe.licenses
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CoreCompileInputs.cache
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CopyComplete
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe
+C:\Users\HAMZAWY\Downloads\Car-Spare-Parts-company-20220706T191100Z-001\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.pdb
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.AssemblyReference.cache
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.SuggestedBindingRedirects.cache
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Chat.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Dashboard.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Employeess.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.ForgetPassword.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.FormEmployee.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.fromClient.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.HRusercontrol.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Login.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.initial.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.user_migration.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Migrations.updat_user.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.Properties.Resources.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.SalaryMangment.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.SUPPLIERS.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.UserControl1.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.XtraForm1.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car_Spare_Parts_company.XtraForm2.resources
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.GenerateResource.cache
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe.licenses
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.csproj.CoreCompileInputs.cache
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.exe
+G:\iti\Project\Car-spar-parts-Project\Car-Spare-Parts-company\Car-Spare-Parts-company\obj\Debug\Car-Spare-Parts-company.pdb
